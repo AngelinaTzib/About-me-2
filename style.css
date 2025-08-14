@@ -1,0 +1,58 @@
+h1 {
+    color: rgb(224, 147, 160);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: rgb(224, 147, 160);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    color: rgb(224, 147, 160);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body {
+    background-color: rgb(249, 216, 221);
+}
+
+li {
+    color: rgb(207, 127, 139);
+}
+
+table {
+    color: rgb(207, 127, 139);
+    margin-bottom: 1.5rem;
+     width: 50%; 
+     text-align: center; 
+     border: 2px solid rgb(224, 147, 160);
+     border-radius: 5px;
+}
+
+th, td {
+    border: 2px solid rgb(224, 147, 160);
+     border-radius: 5px;
+}
+
+p {
+    color: rgb(207, 127, 139);
+}
+
+a {
+    color: rgb(207, 127, 139);
+}
+
+.highlight {
+    background-color: rgb(230, 192, 199);
+    width: 23%;
+}
+
+.box {
+    padding-top: 10px;
+    width: 20%;
+}
+
+.dashed-border {
+    border: 5px dashed rgb(207, 127, 139);
+}
