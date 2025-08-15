@@ -6,6 +6,7 @@ h1 {
 h2 {
     color: rgb(224, 147, 160);
     font-family: Georgia, 'Times New Roman', Times, serif;
+    
 }
 
 h3 {
@@ -55,4 +56,20 @@ a {
 
 .dashed-border {
     border: 5px dashed rgb(207, 127, 139);
+}
+
+nav {
+    background-color: rgb(230, 192, 199);
+    padding: 10px;
+    width: 98%;
+    display: flex;
+    justify-content:space-around;
+    font-size: x-large;
+
+}
+
+.flex-container {
+    display: flex;
+    justify-content:space-around;
+
 }
