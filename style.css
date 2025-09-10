@@ -76,9 +76,13 @@
 }
 
 @media screen and (max-width: 600px) {
+    .nav {
+    flex-direction: column;
+    text-align: center;
+    }
     .img {
         display: flex;
-    text-align: center;
+        text-align: center;
     width: 50%;
     
     }
